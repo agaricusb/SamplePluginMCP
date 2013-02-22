@@ -1,0 +1,3 @@
+name: Sample Plugin MCP
+main: agaricus.plugins.SamplePluginMCP.SamplePluginMCP
+version: ${version}
