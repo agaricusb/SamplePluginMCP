@@ -8,6 +8,7 @@
 
 # maven
 /target
+dependency-reduced-pom.xml
 
 # ant
 /bin
